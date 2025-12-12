@@ -40,7 +40,7 @@ Aşağıdaki şablonu kopyalayıp kendi bilgilerinizi yazın:
 }
 ```
 
-**Emoji Önerileri:** 🚀 💻 ⭐ 🎯 💡 🔥 ✨ 🎉 👋 🌟 💪 🎨 📚 🏆
+**Emoji Önerileri:** 🚀 💻 ⭐ 🎯 💡 🔥 ✨ 🎉 👋 🌟 💪 🎨 📚 🏆 😇
 
 ### Adım 4: Değişikliği Commit Edin
 
